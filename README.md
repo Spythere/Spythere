@@ -2,7 +2,7 @@
 
 Jestem Spythere, od czasu do czasu wypełniam swojego GitHuba nowymi projektami, które tworzę w wolnym czasie. Nie ma ich zbyt wiele, ale w miarę możliwości, gdy mam czas i chęci, dodaję kod z różnych dziedzin programistyki.
 
-- 🔭 Obecnie pracuję nad Stacjownikiem - aplikacją internetową, która pomaga graczom symulatora [Train Driver 2][TD2]
+- 🔭 Obecnie pracuję nad [Stacjownikiem][Stacjownik] - aplikacją internetową, która pomaga graczom symulatora [Train Driver 2][TD2]
 - 🌱 Obecnie uczę się podstaw Pythona, douczam się z TypeScripta, Vue i Reacta
 
  ## ✨ Moje inne projekty ✨
@@ -18,6 +18,7 @@ Jestem Spythere, od czasu do czasu wypełniam swojego GitHuba nowymi projektami,
 [TD2]: https://web.td2.info.pl/en
 [GoL]: https://github.com/Spythere/game-of-life-online
 [John Conway]: https://pl.wikipedia.org/wiki/John_Horton_Conway
+[Stacjownik]: https://github.com/Spythere/stacjownik
 
 
 ## 🚀 Z czego korzystam? 🚀
