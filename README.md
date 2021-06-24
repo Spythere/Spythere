@@ -61,8 +61,13 @@ Jestem Spythere, od czasu do czasu wypełniam swojego GitHuba nowymi projektami,
 <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"></img>
 
 ## :speech_balloon: Kontakt ze mną
-[![ProtonMail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white "ProtonMail")](mailto:spythere@protonmail.com)
+[![ProtonMail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white "ProtonMail")](mailto:spythere@protonmail.com) 
+<br />
+spythere@protonmail.com
+<br /><br />
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white "Gmail")](mailto:daniel.p4jak@gmail.com)
+<br /> 
+daniel.p4jak@gmail.com
 
 <!--
 **Spythere/Spythere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
