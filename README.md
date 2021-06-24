@@ -1,3 +1,7 @@
+<div align="center">
+ <img src="https://i.ibb.co/grMqJK0/spythere-banner-2.png"></img>
+</div>
+
 ## ⚡ Witaj na moim profilu! ⚡
 
 Jestem Spythere, od czasu do czasu wypełniam swojego GitHuba nowymi projektami, które tworzę w wolnym czasie. Nie ma ich zbyt wiele, ale w miarę możliwości, gdy mam czas i chęci, dodaję kod z różnych dziedzin programistyki.
