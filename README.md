@@ -6,11 +6,17 @@
 
 Jestem Spythere, od czasu do czasu wypełniam swojego GitHuba nowymi projektami, które tworzę w wolnym czasie. Nie ma ich zbyt wiele, ale w miarę możliwości, gdy mam czas i chęci, dodaję kod z różnych dziedzin programistyki.
 
-- 🔭 Obecnie pracuję nad [Stacjownikiem][Stacjownik] (oraz [API][Stacjownik API])- aplikacją internetową, która pomaga graczom symulatora [Train Driver 2][TD2]
+- 🔭 W wolnych chwilach rozwijam [Stacjownika][Stacjownik] (oraz jego [API][Stacjownik API])- aplikacją internetową, która pomaga graczom symulatora [Train Driver 2][TD2] (tak, lubię pociągi :train2:)
 - 🌱 Obecnie uczę się podstaw Pythona, douczam się z TypeScripta, Vue i Reacta
 
  ## ✨ Moje inne projekty ✨
  
+👉🏼 [A* Pathfinder (W.I.P.)][Pathfinder] - implementacja algorytmu wyszukiwania ścieżek A* osadzona na siatce z węzłami z możliwością ich rozmieszczania, usuwania i łączenia z innymi obiektami. 
+
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></img>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></img>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></img>
+
 👉🏼 [Game of Life][GoL] - moja implementacja Gry w Życie autorstwa [Johna Conway'a][John Conway], która polega na selekcji naturalnej komórek znajdujących się na planszy, w zależności od stanu komórek sąsiedztwa. W tej wersji jest ona rozszerzona o możliwość modyfikacji globalnej planszy, która widoczna jest dla każdego użytkownika.  
 
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"></img>
@@ -39,6 +45,7 @@ Jestem Spythere, od czasu do czasu wypełniam swojego GitHuba nowymi projektami,
 [Stacjownik]: https://github.com/Spythere/stacjownik
 [Stacjownik API]: https://github.com/Spythere/stacjownik-api
 [Portfolio]: https://github.com/Spythere/portfolio-react
+[Pathfinder]: https://github.com/spythere/pathfinder
 
 
 ## 🚀 Z czego korzystam? 🚀
