@@ -6,10 +6,16 @@
 
 Jestem Spythere, od czasu do czasu wypełniam swojego GitHuba nowymi projektami, które tworzę w wolnym czasie. Nie ma ich zbyt wiele, ale w miarę możliwości, gdy mam czas i chęci, dodaję kod z różnych dziedzin programistyki.
 
-- 🔭 W wolnych chwilach rozwijam [Stacjownika][Stacjownik] (oraz jego [API][Stacjownik API])- aplikacją internetową, która pomaga graczom symulatora [Train Driver 2][TD2] (tak, lubię pociągi :train2:)
+- 🔭 W wolnych chwilach rozwijam [Stacjownik][Stacjownik] (oraz jego [API][Stacjownik API]) - aplikacją internetową, która pomaga graczom symulatora [Train Driver 2][TD2] (tak, lubię pociągi :train2:)
 - 🌱 Obecnie uczę się podstaw Pythona, douczam się z TypeScripta, Vue i Reacta
 
  ## ✨ Moje inne projekty ✨
+ 
+👉🏼 [Pojazdownik][Pojazdownik] - moja druga aplikacja dla symulatora Train Driver 2, która umożliwia graczom proste tworzenie własnych zestawień kolejowych.
+
+<img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"></img>
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"></img>
+<img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"></img>
  
 👉🏼 [A* Pathfinder (W.I.P.)][Pathfinder] - implementacja algorytmu wyszukiwania ścieżek A* osadzona na siatce z węzłami z możliwością ich rozmieszczania, usuwania i łączenia z innymi obiektami. 
 
@@ -32,13 +38,6 @@ Jestem Spythere, od czasu do czasu wypełniam swojego GitHuba nowymi projektami,
 <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"></img>
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"></img>
 
-👉🏼 [Portfolio][Portfolio] - (na razie w fazie budowy) strona gromadząca informacje o mnie i o moich projektach
-
- 
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></img>
-<img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"></img>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></img>
-
 [TD2]: https://web.td2.info.pl/en
 [GoL]: https://github.com/Spythere/game-of-life-online
 [John Conway]: https://pl.wikipedia.org/wiki/John_Horton_Conway
@@ -46,7 +45,7 @@ Jestem Spythere, od czasu do czasu wypełniam swojego GitHuba nowymi projektami,
 [Stacjownik API]: https://github.com/Spythere/stacjownik-api
 [Portfolio]: https://github.com/Spythere/portfolio-react
 [Pathfinder]: https://github.com/spythere/pathfinder
-
+[Pojazdownik]: https://github.com/spythere/pojazdownik
 
 ## 🚀 Z czego korzystam? 🚀
  
