@@ -1,6 +1,4 @@
-<div align="center">
- <img src="https://i.ibb.co/grMqJK0/spythere-banner-2.png"></img>
-</div>
+![Baner](banner.jpg?raw=true "Spythere banner")
 
 ## ⚡ Witaj na moim profilu! ⚡
 
