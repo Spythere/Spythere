@@ -6,7 +6,7 @@ Jestem Spythere, od czasu do czasu wypełniam swojego GitHuba nowymi projektami,
 
 - :computer: W przeszłości programowałem w Javie tworząc pluginy na serwery Minecraft
 - 🔭 Prywatnie tworzę aplikacje internetowe i proste symulacje (Game of Life, A* Pathfinder) 
-- 🌱 Obecnie rozwijam się w technologiach backendowych (framework Django) jako junior developer w projekcie Train Driver 2 
+- 🌱 Obecnie rozwijam się w technologiach backendowych jako developer w projekcie Train Driver 2 
 
  ## ✨ Moje projekty ✨
 
