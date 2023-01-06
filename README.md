@@ -67,7 +67,7 @@ Jestem Spythere, od czasu do czasu wypełniam swojego GitHuba nowymi projektami,
 
 ---
 
-### Inne projekty (WIP / porzucone):
+### Inne projekty (WIP / porzucone / ukończone):
  
 👉🏼 [A* Pathfinder][Pathfinder] - implementacja algorytmu wyszukiwania ścieżek A* osadzona na siatce z węzłami z możliwością ich rozmieszczania, usuwania i łączenia z innymi obiektami. 
 
@@ -76,6 +76,8 @@ Jestem Spythere, od czasu do czasu wypełniam swojego GitHuba nowymi projektami,
 ![CSS3][img:CSS]
 
 👉🏼 [Game of Life][GoL] - moja implementacja Gry w Życie autorstwa [Johna Conway'a][John Conway], która polega na selekcji naturalnej komórek znajdujących się na planszy, w zależności od stanu komórek sąsiedztwa. W tej wersji jest ona rozszerzona o możliwość modyfikacji globalnej planszy, która widoczna jest dla każdego użytkownika.  
+
+👉🏼 [Wiki Scraper][TD2Scraper] - prosty web scraper do wybierania danych o składach z wiki Train Driver 2, stworzony na potrzeby projektu Pojazdownika (pobieranie aktualnych danych o składach i aktualizowanie w API) 
 
 ![HTML5][img:HTML]
 ![Typescript][img:TS]
@@ -90,6 +92,7 @@ Jestem Spythere, od czasu do czasu wypełniam swojego GitHuba nowymi projektami,
 [Pojazdownik]: https://github.com/Spythere/pojazdownik
 [GeneraTOR]: https://github.com/Spythere/genera-tor
 [Pragotron]: https://github.com/Spythere/pragotron-td2
+[TD2Scraper]: https://github.com/Spythere/td2-wiki-scraper
 
 
 ## 🚀 Z czego korzystam? 🚀
