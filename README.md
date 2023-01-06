@@ -77,11 +77,13 @@ Jestem Spythere, od czasu do czasu wypełniam swojego GitHuba nowymi projektami,
 
 👉🏼 [Game of Life][GoL] - moja implementacja Gry w Życie autorstwa [Johna Conway'a][John Conway], która polega na selekcji naturalnej komórek znajdujących się na planszy, w zależności od stanu komórek sąsiedztwa. W tej wersji jest ona rozszerzona o możliwość modyfikacji globalnej planszy, która widoczna jest dla każdego użytkownika.  
 
-👉🏼 [Wiki Scraper][TD2Scraper] - prosty web scraper do wybierania danych o składach z wiki Train Driver 2, stworzony na potrzeby projektu Pojazdownika (pobieranie aktualnych danych o składach i aktualizowanie w API) 
-
 ![HTML5][img:HTML]
 ![Typescript][img:TS]
 ![SASS][img:SASS]
+![Node.js][img:Node]
+
+👉🏼 [Wiki Scraper][TD2Scraper] - prosty web scraper do wybierania danych o składach z wiki Train Driver 2, stworzony na potrzeby projektu Pojazdownika (pobieranie aktualnych danych o składach i aktualizowanie w API) 
+
 ![Node.js][img:Node]
 
 [TD2]: https://web.td2.info.pl/en
