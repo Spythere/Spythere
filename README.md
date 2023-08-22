@@ -60,6 +60,12 @@ URL: https://pragotron-td2.web.app/
 ![NestJS][img:NestJS]
 ![Discord.js][img:Discord.js]
 
+## TD2 Discord Presence
+**Windows terminal application which allows displaying current TD2 online status with Discord Rich Presence feature**
+
+![C#][img:C#]
+![Dotnet][img:Dotnet]
+
 ## Stacjownik Station Manager 
 *PRIVATE REPOSITORY*
 
@@ -123,7 +129,7 @@ URL: https://pragotron-td2.web.app/
 ### ⌨ PROGRAMMING FRAMEWORKS
 <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"></img>
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"></img>
-<img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"></img>
+![Dotnet][img:Dotnet]
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![NestJS][img:NestJS]
 
@@ -161,3 +167,4 @@ URL: https://pragotron-td2.web.app/
 [img:Discord.js]: https://img.shields.io/badge/discord.js-white?style=for-the-badge&logo=discord&logoColor=blue
 [img:Postgresql]: https://img.shields.io/badge/postgresql-blue?style=for-the-badge&logo=postgresql&logoColor=white
 [img:C#]: https://img.shields.io/badge/C%20SHARP-orange?style=for-the-badge&logo=csharp&logoColor=white
+[img:Dotnet]: https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white
