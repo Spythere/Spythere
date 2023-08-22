@@ -14,17 +14,21 @@ I am Spythere, and from time to time, I fill my GitHub with new projects that I 
 
 ## [Stacjownik TD2][Stacjownik]
 
-**An application that allows real-time monitoring of data from the Train Driver 2 simulator, along with statistics gathered through a separate API.**
+**A web application that allows real-time monitoring of data from the Train Driver 2 simulator, along with statistics gathered through a separate API.**
+
+URL: https://stacjownik-td2.web.app/
 
 ![Vue.js][img:Vue]
 ![Typescript][img:TS]
 ![NestJS][img:NestJS]
 ![SASS][img:SASS]
-![MongoDB][img:Mongo]
+![PostgreSQL][img:Postgresql]
 
 
 ## [Pojazdownik TD2][Pojazdownik]
-**My second application for the Train Driver 2 simulator, which allows players to easily create their own railway rolling stock configurations.**
+**My second web application for the Train Driver 2 simulator, which allows players to easily create their own railway rolling stock configurations.**
+
+URL: https://pojazdownik-td2.web.app/
 
 ![Vue.js][img:Vue]
 ![Typescript][img:TS]
@@ -32,12 +36,13 @@ I am Spythere, and from time to time, I fill my GitHub with new projects that I 
 
 
 ## [GeneraTOR TD2][GeneraTOR]
-**An online tool that allows for the quick creation and editing of written commands (allowing to manage traffic in critical situations) and copying their content into the Train Driver 2 simulator's chat.**
+**An online tool that allows for the quick creation and editing of written commands (allowing to manage traffic in critical situations) and copying their content into the Train Driver 2 simulator's chat. Only a Polish version is available for today.**
 
 ![Vue.js][img:Vue]
 ![Typescript][img:TS]
 ![SASS][img:SASS]
 
+URL: https://generator-td2.web.app/
 
 ## [Pragotron TD2][Pragotron]
 **A simple simulator of [Pragotron](https://pl.wikipedia.org/wiki/Pragotron) (the colloquial name for an old Czechoslovakian station departure board) displaying active schedules for a given scenario in the Train Driver 2 simulator.**
@@ -45,6 +50,15 @@ I am Spythere, and from time to time, I fill my GitHub with new projects that I 
 ![Vue.js][img:Vue]
 ![Typescript][img:TS]
 ![SASS][img:SASS]
+
+URL: https://pragotron-td2.web.app/
+
+## [Stacjobot][Stacjobot]
+**A custom Discord bot made as an integration with Stacjownik API services on my Discord server**
+
+![Typescript][img:TS]
+![NestJS][img:NestJS]
+![Discord.js][img:Discord.js]
 
 ## Stacjownik Station Manager 
 *PRIVATE REPOSITORY*
@@ -62,7 +76,7 @@ I am Spythere, and from time to time, I fill my GitHub with new projects that I 
 
 ![Typescript][img:TS]
 ![NestJS][img:NestJS]
-![MongoDB][img:Mongo]
+![PostgreSQL][img:Postgresql]
 
 ---
 
@@ -94,7 +108,7 @@ I am Spythere, and from time to time, I fill my GitHub with new projects that I 
 [GeneraTOR]: https://github.com/Spythere/genera-tor
 [Pragotron]: https://github.com/Spythere/pragotron-td2
 [TD2Scraper]: https://github.com/Spythere/td2-wiki-scraper
-
+[Stacjobot]: https://github.com/Spythere/stacjobot
 
 ## 🚀 what technologies I use 🚀
  
@@ -104,6 +118,7 @@ I am Spythere, and from time to time, I fill my GitHub with new projects that I 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></img>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></img>
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"></img>
+![C#][img:C#]
 
 ### ⌨ PROGRAMMING FRAMEWORKS
 <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"></img>
@@ -120,6 +135,7 @@ I am Spythere, and from time to time, I fill my GitHub with new projects that I 
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"></img>
 <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"></img>
 <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"></img>
+![PostgreSQL][img:Postgresql]
 
 ## :speech_balloon: Contact with me
 [![ProtonMail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white "ProtonMail")](mailto:spythere@protonmail.com) 
@@ -141,4 +157,7 @@ I am Spythere, and from time to time, I fill my GitHub with new projects that I 
 [img:Java]: https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white
 [img:AWS]: https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white
 [img:Heroku]: https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white
-[img:NestJS]: https://img.shields.io/badge/-NestJS-red?style=for-the-badge
+[img:NestJS]:https://img.shields.io/badge/nestjs-red?style=for-the-badge&logo=nestjs&logoColor=white
+[img:Discord.js]: https://img.shields.io/badge/discord.js-white?style=for-the-badge&logo=discord&logoColor=blue
+[img:Postgresql]: https://img.shields.io/badge/postgresql-blue?style=for-the-badge&logo=postgresql&logoColor=white
+[img:C#]: https://img.shields.io/badge/C%20SHARP-orange?style=for-the-badge&logo=csharp&logoColor=white
