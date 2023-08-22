@@ -1,21 +1,20 @@
 ![Baner](banner.jpg?raw=true "Spythere banner")
 
-# ⚡ Witaj na moim profilu! ⚡
+# ⚡ Welcome to my profile! ⚡
 
-Jestem Spythere, od czasu do czasu wypełniam swojego GitHuba nowymi projektami, które tworzę w wolnym czasie. Nie ma ich zbyt wiele, ale w miarę możliwości, gdy mam czas i chęci, dodaję kod z różnych dziedzin programistyki.
+I am Spythere, and from time to time, I fill my GitHub with new projects that I create in my free time. There aren't too many of them, but whenever I have the time and motivation, I add code from various programming domains.
 
-- :computer: W przeszłości programowałem w Javie tworząc pluginy na serwery Minecraft
-- 🔭 Prywatnie tworzę aplikacje internetowe i proste symulacje (Game of Life, A* Pathfinder) 
-- 🌱 Obecnie rozwijam się w technologiach backendowych jako developer w projekcie Train Driver 2 
+- :computer: In the past, I programmed in Java, creating plugins for Minecraft servers
+- 🔭 Privately, I create web applications and simple simulations (such as Game of Life and A* Pathfinder)
+- 🌱 Currently, I am evolving my skills in backend technologies as a developer in the [Train Driver 2 project](https://ttsk.ngo/)
 
-## ✨ Moje projekty ✨
+## ✨ My projects ✨
  
-### Projekty stworzone dla symulatora polskich kolei **Train Driver 2**
-
+### Projects created for the Polish railways simulator **Train Driver 2**.
 
 ## [Stacjownik TD2][Stacjownik]
 
-**Aplikacja pozwalająca na podgląd danych z symulatora Train Driver 2 w realnym czasie razem ze statystykami, które gromadzone są za pomocą oddzielnego API.**
+**An application that allows real-time monitoring of data from the Train Driver 2 simulator, along with statistics gathered through a separate API.**
 
 ![Vue.js][img:Vue]
 ![Typescript][img:TS]
@@ -25,7 +24,7 @@ Jestem Spythere, od czasu do czasu wypełniam swojego GitHuba nowymi projektami,
 
 
 ## [Pojazdownik TD2][Pojazdownik]
-**Moja druga aplikacja dla symulatora Train Driver 2, która umożliwia graczom proste tworzenie własnych zestawień kolejowych.**
+**My second application for the Train Driver 2 simulator, which allows players to easily create their own railway rolling stock configurations.**
 
 ![Vue.js][img:Vue]
 ![Typescript][img:TS]
@@ -33,7 +32,7 @@ Jestem Spythere, od czasu do czasu wypełniam swojego GitHuba nowymi projektami,
 
 
 ## [GeneraTOR TD2][GeneraTOR]
-**Narzędzie online pozwalające na szybkie tworzenie i edycję rozkazów pisemnych i kopiowanie ich treści do czatu symulatora Train Driver 2.**
+**An online tool that allows for the quick creation and editing of written commands (allowing to manage traffic in critical situations) and copying their content into the Train Driver 2 simulator's chat.**
 
 ![Vue.js][img:Vue]
 ![Typescript][img:TS]
@@ -41,25 +40,25 @@ Jestem Spythere, od czasu do czasu wypełniam swojego GitHuba nowymi projektami,
 
 
 ## [Pragotron TD2][Pragotron]
-**Prosty symulator [Pragotronu](https://pl.wikipedia.org/wiki/Pragotron) (potoczna nazwa dworcowej tablicy paletowej) pokazująca aktywne rozkłady jazdy dla danej scenerii w symulatorze Train Driver 2.**
+**A simple simulator of [Pragotron](https://pl.wikipedia.org/wiki/Pragotron) (the colloquial name for an old Czechoslovakian station departure board) displaying active schedules for a given scenario in the Train Driver 2 simulator.**
 
 ![Vue.js][img:Vue]
 ![Typescript][img:TS]
 ![SASS][img:SASS]
 
 ## Stacjownik Station Manager 
-*STRONA PRYWATNA*
+*PRIVATE REPOSITORY*
 
-**Menedżer stworzony dla osób, które zajmują się edycją danych istniejących scenerii w symulatorze Train Driver 2.**
+**An online manager created for staff involved in editing data for existing scenarios in the Train Driver 2 simulator.**
 
 ![Vue.js][img:Vue]
 ![Typescript][img:TS]
 ![SASS][img:SASS]
 
 ## Spythere Stacjownik API
-*API PRYWATNE*
+*PRIVATE API*
 
-**Usługa backendowa zbierająca publiczne statystyki o dyżurnych i maszynistach w symulatorze Train Driver 2, a następnie przekazująca je na stronę Stacjownika.**
+**A backend service collecting public statistics about dispatchers and drivers in the Train Driver 2 simulator, and then providing them to the Stacjownik website.**
 
 ![Typescript][img:TS]
 ![NestJS][img:NestJS]
@@ -67,22 +66,22 @@ Jestem Spythere, od czasu do czasu wypełniam swojego GitHuba nowymi projektami,
 
 ---
 
-### Inne projekty (WIP / porzucone / ukończone):
+### Other projects (WIP / porzucone / ukończone):
  
-👉🏼 [A* Pathfinder][Pathfinder] - implementacja algorytmu wyszukiwania ścieżek A* osadzona na siatce z węzłami z możliwością ich rozmieszczania, usuwania i łączenia z innymi obiektami. 
+👉🏼 [A* Pathfinder][Pathfinder] - implementation of the A* pathfinding algorithm embedded on a grid with nodes that can be placed, removed, and connected to other objects.
 
 ![HTML5][img:HTML]
 ![JavaScript][img:JS]
 ![CSS3][img:CSS]
 
-👉🏼 [Game of Life][GoL] - moja implementacja Gry w Życie autorstwa [Johna Conway'a][John Conway], która polega na selekcji naturalnej komórek znajdujących się na planszy, w zależności od stanu komórek sąsiedztwa. W tej wersji jest ona rozszerzona o możliwość modyfikacji globalnej planszy, która widoczna jest dla każdego użytkownika.  
+👉🏼 [Game of Life][GoL] - my implementation of [John Conway's][John Conway] Game of Life, which involves the natural selection of cells on a board based on the state of neighboring cells. In this version, it's expanded to include the ability to modify a global board that is visible to every uses 
 
 ![HTML5][img:HTML]
 ![Typescript][img:TS]
 ![SASS][img:SASS]
 ![Node.js][img:Node]
 
-👉🏼 [Wiki Scraper][TD2Scraper] - prosty web scraper do wybierania danych o składach z wiki Train Driver 2, stworzony na potrzeby projektu Pojazdownika (pobieranie aktualnych danych o składach i aktualizowanie w API) 
+👉🏼 [TD2 Wiki Scraper][TD2Scraper] - a simple web scraper for extracting train composition data from the Train Driver 2 wiki, created for the needs of the "Pojazdownik" project (fetching current train composition data and updating it in the API)
 
 ![Node.js][img:Node]
 
@@ -97,32 +96,32 @@ Jestem Spythere, od czasu do czasu wypełniam swojego GitHuba nowymi projektami,
 [TD2Scraper]: https://github.com/Spythere/td2-wiki-scraper
 
 
-## 🚀 Z czego korzystam? 🚀
+## 🚀 what technologies I use 🚀
  
-### 💬 JĘZYKI / TECHNOLOGIE
+### 💬 PROGRAMMING LANGUAGES & SOLUTIONS
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></img>
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"></img>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></img>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></img>
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"></img>
 
-### ⌨ FRAMEWORKI
+### ⌨ PROGRAMMING FRAMEWORKS
 <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"></img>
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"></img>
 <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"></img>
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![NestJS][img:NestJS]
 
-### 📕 BIBLIOTEKI
+### 📕 LIBRARIES
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></img>
 <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"></img>
 
-### 📌 WDROŻENIA
+### 📌 DEPLOYMENTS
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"></img>
 <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"></img>
 <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"></img>
 
-## :speech_balloon: Kontakt ze mną
+## :speech_balloon: Contact with me
 [![ProtonMail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white "ProtonMail")](mailto:spythere@protonmail.com) 
 <br />
 
