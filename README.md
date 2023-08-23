@@ -86,7 +86,7 @@ URL: https://pragotron-td2.web.app/
 
 ---
 
-### Other projects (WIP / porzucone / ukończone):
+### Other projects (WIP / abandoned / finished):
  
 👉🏼 [A* Pathfinder][Pathfinder] - implementation of the A* pathfinding algorithm embedded on a grid with nodes that can be placed, removed, and connected to other objects.
 
@@ -116,7 +116,7 @@ URL: https://pragotron-td2.web.app/
 [TD2Scraper]: https://github.com/Spythere/td2-wiki-scraper
 [Stacjobot]: https://github.com/Spythere/stacjobot
 
-## 🚀 what technologies I use 🚀
+## 🚀 Technologies I use 🚀
  
 ### 💬 PROGRAMMING LANGUAGES & SOLUTIONS
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></img>
