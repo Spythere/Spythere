@@ -60,7 +60,7 @@ URL: https://pragotron-td2.web.app/
 ![NestJS][img:NestJS]
 ![Discord.js][img:Discord.js]
 
-## TD2 Discord Presence
+## [TD2 Discord Presence][Presence]
 **Windows terminal application which allows displaying current TD2 online status with Discord Rich Presence feature**
 
 ![C#][img:C#]
@@ -113,6 +113,7 @@ URL: https://pragotron-td2.web.app/
 [Pojazdownik]: https://github.com/Spythere/pojazdownik
 [GeneraTOR]: https://github.com/Spythere/genera-tor
 [Pragotron]: https://github.com/Spythere/pragotron-td2
+[Presence]: https://github.com/Spythere/TD2-Discord-Presence
 [TD2Scraper]: https://github.com/Spythere/td2-wiki-scraper
 [Stacjobot]: https://github.com/Spythere/stacjobot
 
